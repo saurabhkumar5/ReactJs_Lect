@@ -1,9 +1,0 @@
-.boxConatiner{
-    width: 180px;
-    height: 180px;
-    display: flex;
-    flex-direction: column;
-}
-.boxText{
-    font-size: 14px;
-}
